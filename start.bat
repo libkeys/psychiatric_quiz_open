@@ -1,4 +1,4 @@
 start nodemon app.js
-cd ./dist
-start http-server 8080
-start http://127.0.0.1:8080
+start cd ./dist & http-server 5173
+start http://127.0.0.1:5173
+
